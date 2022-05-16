@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.karriere.at" target="_blank"><img src="https://github.com/karriereat/.github/raw/main/profile/logo.png" width="400"></a></p>
+<p align="center"><a href="https://www.karriere.at" target="_blank"><img src="https://github.com/karriereat/.github/raw/main/profile/group.webp" width="100%"></a></p>
 
 ## About karriere.at
 This page represents the development department of karriere.at. Our team has now grown up to more than 50 members. With 1.5 million unique clients and 20 million page impressions per month we are responsible for one of the largest Austrian websites. Each week we deliver 1.5 million new job postings to our users and develop all our products ourselves. Joy of working in a collaborative team is equally important to us as the focus on the high quality of our products.
