@@ -9,4 +9,4 @@ Do you consider yourself a free thinker, striving to create new products with th
 
 We have different roles and many different demanding tasks which have to be mastered every day. The person remains in the focus of our interest. Every one has their own strength. You will be able to utilize your personal strengths, flourish and grow in your own discipline.
 
-[Jobs @ karriere.at](https://www.karriere.at/b/karriere-at#jobs)
+[Jobs @ karriere.at](https://www.karriere.at/ueber-uns/jobs-bei-karriere-at)
